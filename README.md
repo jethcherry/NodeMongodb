@@ -46,9 +46,13 @@ DELETE /api/products/:id: Delete a product by ID
 You can test the API endpoints using the following tools:
 
 ### REST Client (VS Code Extension)
+### THUNDER CLIENT (VS Code Extension)
 
-- **Installation**: Search for "REST Client" in the [Visual Studio Code marketplace](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) and install it.
-- **Usage**: Create a `.http` file in your project directory with HTTP request examples. For example:
-  ```http
-  GET http://localhost:3000/api/products
+### POST MAN (DOWNLOAD AS A SOFTWARE
+
+### INSOMNIA (DOWNLOAD AS A SOFTWARE)
+
+
+
+
 
