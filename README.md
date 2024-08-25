@@ -39,6 +39,8 @@ POST /api/products: Create a new product.
 PUT /api/products/:id: Update a product by ID.
 DELETE /api/products/:id: Delete a product by ID
 
+
+
 ## Testing
 
 You can test the API endpoints using the following tools:
