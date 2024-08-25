@@ -45,12 +45,12 @@ DELETE /api/products/:id: Delete a product by ID
 
 You can test the API endpoints using the following tools:
 
-### REST Client (VS Code Extension)
-### THUNDER CLIENT (VS Code Extension)
+## REST Client (VS Code Extension)
+## THUNDER CLIENT (VS Code Extension)
 
-### POST MAN (DOWNLOAD AS A SOFTWARE
+## POST MAN (DOWNLOAD AS A SOFTWARE
 
-### INSOMNIA (DOWNLOAD AS A SOFTWARE)
+## INSOMNIA (DOWNLOAD AS A SOFTWARE)
 
 
 
