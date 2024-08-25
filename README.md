@@ -34,7 +34,7 @@ To get started with this project, follow these steps:
     Clone this repository to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/yourusername/my-mongoose-app.git
+    git clone  https://github.com/jethcherry/NodeMongodb.git
     cd my-mongoose-app
     ```
 
