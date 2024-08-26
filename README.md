@@ -16,7 +16,7 @@ This Node.js application uses MongoDB with Mongoose to manage product data throu
 
     ```bash
     git clone https://github.com/jethcherry/NodeMongodb.git
-    cd my-mongoose-app
+    cd NodeMongodb
     ```
 
 2. **Install dependencies**:
